@@ -1,5 +1,5 @@
 # Google-Charts
-[Demo](https://k9694w2jmo.codesandbox.io/)
+[Demo](https://csb-71qvl2k3r6-dpclhphchl.now.sh)
 
 <img src="google-charts-demo.png"/>
 
