@@ -1,5 +1,5 @@
 # Google-Charts
-[Demo](google-charts-demo.now.sh)
+[Demo](https://google-charts-demo.now.sh/)
 
 <img src="google-charts-demo.png"/>
 
